@@ -1,6 +1,6 @@
 # Skilline Project
 
-![Skilline Cover](./img/cover/Header.jpg)
+![Skilline Cover](./cover.jpg)
 
 ## About the Project
 
